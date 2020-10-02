@@ -1,5 +1,7 @@
 /* BAAHUBALI7781  */
- 
+
+/*This algorithm calculates two non-negative numbers' largest common divisor in O((logn)^2) worst time complexity.*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
